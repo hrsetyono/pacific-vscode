@@ -1,0 +1,22 @@
+{
+    "name": "pacific-vscode",
+    "displayName": "Pacific",
+    "description": "Simple dark theme inspired from Codecademy editor",
+    "version": "0.1.0",
+    "publisher": "hrsetyono",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pacific",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pacific-color-theme.json"
+            }
+        ]
+    }
+}

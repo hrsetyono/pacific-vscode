@@ -1,0 +1,35 @@
+{
+  "tweets": [
+    { "message": "Hello World", "date": "2015-05-02" },
+    { "message": "This is a test", "date": "2015-06-12" }
+  ],
+
+  "account": {
+    "username": "johndoe",
+    "premium": true,
+    "profile": {
+      "name": {
+        "first": "John",
+        "last": "Doe"
+      },
+      "country": "Indonesia"
+    },
+  },
+
+  "Level 1": "Nested JSON",
+  "all levels": {
+    "Level 2": {
+      "Level 3": {
+        "Level 4": {
+          "Level 5": {
+            "Level 6": {
+              "Level 7": {
+                "Level 8": { },
+              },
+            },
+          },
+        },
+      },
+    },
+  },
+}
