@@ -696,7 +696,7 @@
 			"settings": {
 				"background": "#ffe083",
 				"fontStyle": "",
-				"foreground": "#354551"
+				"foreground": "#5b798c"
 			}
 		},
 		{
@@ -704,7 +704,7 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"background": "#a4cccb",
-				"foreground": "#354551"
+				"foreground": "#5b798c"
 			}
 		},
 		{
@@ -1377,202 +1377,130 @@
 			}
 		},
 		{
-			"name": "JSON: Value 10",
-			"scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 10",
-			"scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string",
-			"settings": {
-				"foreground": "#c5e88c"
-			}
-		},
-		{
-			"name": "JSON: Value 9",
+			"name": "JSON: Value",
 			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string"
+				"source.json meta.structure.dictionary.value.json string.quoted.double.json"
 			],
 			"settings": {
 				"foreground": "#ffffff"
 			}
 		},
 		{
-			"name": "JSON: Key 9",
+			"name": "JSON: Key 4, 8",
 			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string"
-			],
-			"settings": {
-				"foreground": "#a4cccb"
-			}
-		},
-		{
-			"name": "JSON: Value 8",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 8",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string"
+				"source.json meta meta meta meta meta meta meta support.type.property-name",
+				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#ff8973"
 			}
 		},
 		{
-			"name": "JSON: Value 7",
+			"name": "JSON: Key 3, 7",
 			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 7",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string"
+				"source.json meta meta meta meta meta support.type.property-name",
+				"source.json meta meta meta meta meta meta meta meta meta meta meta meta meta support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#ffe083"
 			}
 		},
 		{
-			"name": "JSON: Value 6",
+			"name": "JSON: Key 2, 6",
 			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 6",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string"
+				"source.json meta meta meta support.type.property-name",
+				"source.json meta meta meta meta meta meta meta meta meta meta meta support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#c5e88c"
 			}
 		},
 		{
-			"name": "JSON: Value 5",
+			"name": "JSON: Key 1, 5",
 			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string"
+				"source.json meta support.type.property-name",
+				"source.json meta meta meta meta meta meta meta meta meta support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 5",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary string"
-			],
-			"settings": {
-				"foreground": "#a4cccb"
-			}
-		},
-		{
-			"name": "JSON: Value 4",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta meta meta meta.structure.dictionary.value.json string"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 4",
-			"scope": [
-				"source.json meta meta meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta meta meta.structure.dictionary string"
-			],
-			"settings": {
-				"foreground": "#ff8973"
-			}
-		},
-		{
-			"name": "JSON: Value 3",
-			"scope": [
-				"source.json meta meta meta meta meta.structure.dictionary.value.json string",
-				"source.json meta meta meta meta meta meta.structure.dictionary.value.json string"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 3",
-			"scope": [
-				"source.json meta meta meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta meta meta.structure.dictionary string"
-			],
-			"settings": {
-				"foreground": "#ffe083"
-			}
-		},
-		{
-			"name": "JSON: Value 2",
-			"scope": "source.json meta meta meta.structure.dictionary.value.json string",
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 2",
-			"scope": [
-				"source.json meta meta meta.structure.dictionary string",
-				"source.json meta meta meta meta.structure.dictionary string"
-			],
-			"settings": {
-				"foreground": "#c5e88c"
-			}
-		},
-		{
-			"name": "JSON: Value 1",
-			"scope": "source.json meta meta.structure.dictionary.value.json string",
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
-			"name": "JSON: Key 1",
-			"scope": [
-				"source.json meta.structure.dictionary string",
-				"source.json meta meta.structure.dictionary string"
-			],
-			"settings": {
+				"fontStyle": "normal",
 				"foreground": "#a4cccb"
 			}
 		}
 	],
 	"colors": {
-		"editorIndentGuide.background": "#4b6373",
+		"sideBar.background": "#313b44",
+		"sideBarSectionHeader.background": "#2b3034",
+		"list.focusBackground": "#354551",
+		"list.activeSelectionBackground":"#354551",
+		"list.hoverBackground": "#354551",
+		"list.inactiveSelectionBackground": "#354551",
+		"list.errorForeground": "#ff8973",
+		"list.warningForeground": "#ffe083",
+
+		"editorIndentGuide.background": "#415565",
 		"editor.background": "#354551",
 		"editorCursor.foreground": "#f8f8f0",
 		"editor.foreground": "#f8f8f2",
+		"editor.findMatchBackground": "#a4cccb66",
+		"editor.findMatchHighlightBackground": "#a4cccb66",
+		"editor.findRangeHighlightBackground": "#a4cccb66",
+		"editor.wordHighlightBackground": "#a4cccb4c",
+		"editor.wordHighlightStrongBackground": "#a4cccb4c",
+		"editor.lineHighlightBackground": "#415565",
+		"editor.selectionBackground": "#2b3034",
+		
 		"editorWhitespace.foreground": "#3b3a32",
-		"editor.lineHighlightBackground": "#2a3034",
-		"editor.selectionBackground": "#2a3034"
+
+		"editorError.foreground": "#ff8973",
+		"editorWarning.foreground": "#ffe083",
+		"editorInfo.foreground": "#c5e88c",
+
+		"editorGroup.border": "#354551",
+		"editorGroup.dropBackground": "#4155657F",
+		"editorGroupHeader.noTabsBackground": "#2b3034",
+		"editorGroupHeader.tabsBackground": "#2b3034",
+		"editorGroupHeader.tabsBorder": "#354551",
+
+		"tab.inactiveBackground": "#2b3034",
+		"tab.inactiveForeground": "#a4cccb",
+		"tab.border": "#2b3034",
+		"tab.activeBorder": "#2b3034",
+		"tab.hoverBackground": "#31404b",
+
+		"statusBar.background": "#2b3034",
+		"statusBar.border": "#2b3034",
+
+		"panel.background": "#313b44",
+		"panel.border": "#415565",
+
+		"scrollbar.shadow": "#313b44",
+		"scrollbarSlider.background": "#5c788d7F",
+		"scrollbarSlider.hoverBackground": "#66869d7F",
+		"scrollbarSlider.activeBackground": "#66869d7F",
+
+		"dropdown.background": "#415565",
+		"dropdown.border": "#415565",
+
+		"input.background": "#415565",
+		"input.foreground": "#ffffff",
+		"input.placeholderForeground": "#a4cccb",
+
+		"inputValidation.errorBorder": "#ff8973",
+		"inputValidation.warningBorder": "#ffe083",
+		"inputValidation.infoBorder": "#c5e88c",
+
+		"editorOverviewRuler.addedForeground": "#c5e88c",
+		"editorOverviewRuler.modifiedForeground": "#ae9ad3",
+		"editorOverviewRuler.deletedForeground": "#ff8973",
+		"editorGutter.addedBackground": "#c5e88c",
+		"editorGutter.modifiedBackground": "#ae9ad3",
+		"editorGutter.deletedBackground": "#ff8973",
+
+		"widget.shadow": "#2b30347F",
+		"editorWidget.background": "#2b3034",
+		"editorSuggestWidget.background": "#2b3034",
+
+		"button.background": "#415565"
 	},
 	"name": "Pacific"
 }

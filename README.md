@@ -1,6 +1,6 @@
 # Pacific Theme for VS Code
 
-A simple theme inspired from Codecademy editor.
+Not-so-dark theme designed for Retina Display.
 
 This theme is also available for [Sublime Text](https://github.com/hrsetyono/pacific-atom) and [Atom](https://github.com/hrsetyono/theme_pacific)
 
@@ -14,9 +14,21 @@ This theme is also available for [Sublime Text](https://github.com/hrsetyono/pac
 
 ## Screenshot
 
-**HTML (Atom version)**
+**HTML**
 
-![Pacific Dark - HTML](https://cdn.setyono.net/pacific-dark/html.jpg)
+![Pacific VS Code - HTML](https://cdn.setyono.net/pacific-vscode/html.jpg)
+
+**PYTHON**
+
+![Pacific VS Code - PYTHON](https://cdn.setyono.net/pacific-vscode/python.jpg)
+
+**MORE SCREENSHOTS:**
+
+- [Javascript](https://cdn.setyono.net/pacific-vscode/javascript.jpg)
+- [PHP](https://cdn.setyono.net/pacific-vscode/php.jpg)
+- [Ruby](https://cdn.setyono.net/pacific-vscode/ruby.jpg)
+- [Markdown](https://cdn.setyono.net/pacific-vscode/markdown.jpg)
+- [CSS](https://cdn.setyono.net/pacific-vscode/css.jpg)
 
 ## Credit
 

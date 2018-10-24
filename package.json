@@ -1,8 +1,8 @@
 {
     "name": "pacific-vscode",
     "displayName": "Pacific",
-    "description": "Simple dark theme inspired from Codecademy editor",
-    "version": "0.1.0",
+    "description": "Not-so-dark theme designed for Retina display",
+    "version": "0.2.0",
     "publisher": "hrsetyono",
     "engines": {
         "vscode": "^1.28.0"
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "repository": "https://github.com/hrsetyono/pacific-vscode",
     "contributes": {
         "themes": [
             {
