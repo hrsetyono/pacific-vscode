@@ -2,8 +2,9 @@
     "name": "pacific-vscode",
     "displayName": "Pacific",
     "description": "Not-so-dark theme designed for Retina display",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "hrsetyono",
+    "icon": "logo-pacific-theme.png",
     "engines": {
         "vscode": "^1.28.0"
     },

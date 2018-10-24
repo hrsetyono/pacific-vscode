@@ -12,7 +12,7 @@
 				"findHighlightForeground": "#24353c",
 				"foreground": "#f8f8f2",
 				"selectionBorder": "#2a3034",
-				"gutterForeground": "#5b798c",
+				"gutterForeground": "#67899f",
 				"stackGuide": "#635f2d",
 				"tagsOptions": "stippled_underline"
 			}
@@ -21,7 +21,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"scope": "comment.block.html",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -680,7 +680,7 @@
 			"name": "PHP: Comment",
 			"scope": "keyword.other.phpdoc",
 			"settings": {
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -696,7 +696,7 @@
 			"settings": {
 				"background": "#ffe083",
 				"fontStyle": "",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -704,7 +704,7 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"background": "#a4cccb",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -714,7 +714,7 @@
 				"meta.diff.header"
 			],
 			"settings": {
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"scope": "comment.line.number-sign.perl",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"scope": "markup.underline",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1115,7 +1115,7 @@
 			"scope": "meta.separator",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1212,7 +1212,7 @@
 			"scope": "comment.line.number-sign.shell",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1220,7 +1220,7 @@
 			"scope": "comment.line.number-sign.makefile",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1228,7 +1228,7 @@
 			"scope": "punctuation.definition.comment.makefile",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1280,14 +1280,14 @@
 			"name": "GitGutter ignored",
 			"scope": "markup.ignored.git_gutter",
 			"settings": {
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
 			"name": "GitGutter untracked",
 			"scope": "markup.untracked.git_gutter",
 			"settings": {
-				"foreground": "#5b798c"
+				"foreground": "#67899f"
 			}
 		},
 		{
@@ -1460,6 +1460,10 @@
 		"editorGroupHeader.noTabsBackground": "#2b3034",
 		"editorGroupHeader.tabsBackground": "#2b3034",
 		"editorGroupHeader.tabsBorder": "#354551",
+
+		"diffEditor.insertedTextBackground": "#c5e88c1e",
+		"diffEditor.removedTextBackground": "#ff89731e",
+		"diffEditor.border": "#2b3034",
 
 		"tab.inactiveBackground": "#2b3034",
 		"tab.inactiveForeground": "#a4cccb",
