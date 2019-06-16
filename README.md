@@ -2,7 +2,10 @@
 
 Not-so-dark theme designed for Retina Display.
 
-This theme is also available for [Sublime Text](https://github.com/hrsetyono/pacific-atom) and [Atom](https://github.com/hrsetyono/theme_pacific)
+## Port
+
+- [Sublime Text 3 »](https://github.com/hrsetyono/theme_pacific)
+- [Atom »](https://github.com/hrsetyono/pacific-atom)
 
 ## Installation
 
